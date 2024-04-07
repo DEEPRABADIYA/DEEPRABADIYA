@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DEEPRABADIYA
-- 👀 I’m interested in data analytics and gis
+- 👀 I’m interested in Remote Sensing and GIS
 - 🌱 I’m currently learning Agriculture analytics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...

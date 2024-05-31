@@ -1,10 +1,32 @@
-- 👋 Hi, I’m @DEEPRABADIYA
-- 👀 I’m interested in Remote Sensing and GIS
-- 🌱 I’m currently learning Agriculture analytics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m @DEEPRABADIYA
 
-<!---
-DEEPRABADIYA/DEEPRABADIYA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I am a passionate Agriculture Analyst with a keen interest in Remote Sensing and GIS, particularly within the agriculture sector. My goal is to leverage technology like Remote sensing and GIS to improve Agriculture.
+
+## 🌟 About Me
+
+As a dedicated Agriculture Analyst, I bring a fresh perspective and a strong foundation in Python, Machine Learning, Deep Learning and Google Earth Engine. My expertise includes:
+
+- **GIS Software**: Proficient in utilizing various GIS software such as Erdas, ArcGIS, QGIS, SNAP and ENVI.
+- **GIS Libraries**: Experienced in using libraries like Rasterio, GDAL, and Geopandas.
+- **Remote Sensing**: Skilled in analyzing satellite imagery and extracting valuable insights for agricultural applications.
+- **Agriculture Analytics**: Currently expanding my knowledge in agriculture analytics to better understand and address the challenges in the industry.
+
+## 💞️ Collaboration
+
+I am looking to collaborate on projects related to:
+- Remote Sensing and GIS applications in agriculture
+- Machine Learning or Deep Learning models for precision farming
+
+## 📫 How to Reach Me
+
+Feel free to connect with me via:
+- **Email**: [deepp6603@gmail.com]
+- **LinkedIn**: [https://www.linkedin.com/in/deep-rabadiya-998816215/]
+- **Mobile**: [+91 9510108275]
+
+Let's work together to create impactful solutions for the agriculture industry!
+
+---
+
+Thank you for visiting my profile! 🚀
+

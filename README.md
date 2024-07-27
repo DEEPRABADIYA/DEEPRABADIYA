@@ -23,6 +23,7 @@ Feel free to connect with me via:
 - **Email**: [deepp6603@gmail.com]
 - **LinkedIn**: [https://www.linkedin.com/in/deep-rabadiya-998816215/]
 - **Mobile**: [+91 9510108275]
+- **Portfoilio**: https://deeprabadiya.github.io/
 
 Let's work together to create impactful solutions for the agriculture industry!
 

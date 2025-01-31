@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Deep Rabadiya
 
-Welcome to my GitHub profile! I am a passionate Agriculture Analyst with a keen interest in Remote Sensing and GIS (also in Spatial Data Analysis and Web GIS), particularly within the agriculture sector. My goal is to leverage technology like Remote sensing and GIS to improve Agriculture and other things.
+Welcome to my GitHub profile! I am a passionate Agriculture Analyst with a keen interest in Geospatial Data Science (Remote Sensing, GIS, Web GIS), particularly within the agriculture sector. My goal is to leverage technology like Remote sensing and GIS to improve Agriculture and other things.
 
 ## 🌟 About Me
 

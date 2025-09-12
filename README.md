@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Deep Rabadiya
 
-A dedicated Geospatial Data Analyst (Remote Sensing and GIS Analyst) with a strong interest in leveraging data analytics and geospatial intelligence to solve real-world challenges. With a Master's degree in Geospatial Data Science from DAIICT, IIRS–ISRO, and AAU, I have honed my expertise across multiple domains of Remote Sensing and GIS analytics.
+A dedicated Geospatial Data Analyst (Remote Sensing and GIS Analyst) with a strong interest in leveraging data analytics and geospatial intelligence to solve real-world challenges. With a Master's degree in Geospatial Data Science from DAIICT and IIRS–ISRO, I have honed my expertise across multiple domains of Remote Sensing and GIS analytics.
 
 I possess a robust skill set that includes Python, Machine Learning, Deep Learning, Remote Sensing, GIS, Google Earth Engine, SQL, Advanced Excel, and Web GIS, along with hands-on experience in geospatial data processing, modeling, and visualization.
 

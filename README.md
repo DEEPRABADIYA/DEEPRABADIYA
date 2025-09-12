@@ -1,24 +1,20 @@
 # 👋 Hi, I’m Deep Rabadiya
 
-Welcome to my GitHub profile! I am a passionate Agriculture Analyst with a keen interest in Geospatial Data Science (Remote Sensing, GIS, Web GIS), particularly within the agriculture sector. My goal is to leverage technology like Remote sensing and GIS to improve Agriculture and other things.
+A dedicated Geospatial Data Analyst (Remote Sensing and GIS Analyst) with a strong interest in leveraging data analytics and geospatial intelligence to solve real-world challenges. With a Master's degree in Geospatial Data Science from DAIICT, IIRS–ISRO, and AAU, I have honed my expertise across multiple domains of Remote Sensing and GIS analytics.
+
+I possess a robust skill set that includes Python, Machine Learning, Deep Learning, Remote Sensing, GIS, Google Earth Engine, SQL, Advanced Excel, and Web GIS, along with hands-on experience in geospatial data processing, modeling, and visualization.
 
 ## 🌟 About Me
 
-As a dedicated Agriculture Analyst, I bring a fresh perspective and a strong foundation in Python, Machine Learning, Deep Learning and Google Earth Engine. My expertise includes:
-
-- **GIS Software**: Proficient in utilizing various GIS software such as Erdas, ArcGIS, QGIS, SNAP and ENVI.
-- **GIS Libraries**: Experienced in using libraries like Rasterio, GDAL, and Geopandas.
-- **Remote Sensing**: Skilled in analyzing satellite imagery and extracting valuable insights for agricultural applications.
-- **Agriculture Analytics**: Currently expanding my knowledge in agriculture analytics to better understand and address the challenges in the industry.
+- **Languages**: Python, R, SQL
+- **Tools and Technologies**: ArcGIS, QGIS, ERDAS IMAGINE, SNAP, Envi, Google Earth Engine, PostgreSQL, Power BI, Looker studio, Advance Excel, Ms-Office
+- **Libraries**: Pandas, NumPy, Matplotlib, Rasterio, Gdal, Geopandas, Sklearn, TensorFlow, OpenCV
+- **GIS Software**: Proficient in utilizing various GIS software such as ArcGIS, QGIS, Erdas, SNAP and ENVI.
 - **Web GIS**: Open Layers, HTML, Basic Java Script, pgRouting, Geoserver
-- Basics of **IOT**
 
 ## 💞️ Collaboration
 
-I am looking to collaborate on projects related to:
-- Remote Sensing and GIS applications in agriculture
-- Machine Learning or Deep Learning models for precision farming
-- Projets on Spatial Data Analysis and Web GIS
+I am always eager to collaborate with like-minded professionals and organizations to drive innovation in the geospatial domain. Feel free to connect if you are working on projects involving remote sensing, GIS, or data analytics—let’s explore opportunities to work together and create impactful solutions.
 
 ## 📫 How to Reach Me
 
@@ -26,9 +22,9 @@ Feel free to connect with me via:
 - **Email**: [deepp6603@gmail.com]
 - **LinkedIn**: [https://www.linkedin.com/in/deep-rabadiya-998816215/]
 - **Mobile**: [+91 9510108275]
-- **Portfoilio**: https://deeprabadiya.github.io/
+- **Portfoilio**: https://deeprabadiya.github.io/ 
 
-Let's work together to create impactful solutions for the agriculture industry!
+Let's work together to create impactful solutions for the Geospatial industry!
 
 ---
 

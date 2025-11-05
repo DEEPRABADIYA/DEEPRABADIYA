@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deep Rabadiya</h1>
-<h3 align="center">Data Scientist | AI & ML Enthusiast | Geospatial Analyst</h3>
+<h3 align="center">Data Scientist | AI & ML Enthusiast </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=deeprabadiya&label=Profile%20views&color=0e75b6&style=flat" alt="deeprabadiya" />
@@ -7,11 +7,7 @@
 
 ---
 
-- 🔭 I’m currently exploring **AI-driven analytics and predictive modeling**
-- 🌱 I’m learning **LangChain, AWS, and advanced ML/DL frameworks**
-- 💻 I have hands-on experience in **Python, SQL, Excel, and Data Visualization**
-- 🌐 I love integrating **Data Science with Geospatial Analytics**
-- 📊 Passionate about solving **real-world challenges through AI & Data**
+- I am a passionate Data Scientist with strong expertise in Python, Machine Learning, Deep Learning, and Data Analytics. I specialize in transforming complex data into actionable insights through advanced modeling, automation, and visualization. With hands-on experience in SQL, Excel, LangChain, and AWS, I build scalable data-driven solutions and intelligent systems. I’m particularly interested in applying AI and data science techniques to solve real-world challenges across diverse domains. Eager to collaborate on innovative projects that bridge data, technology, and decision-making for meaningful impact.
 
 ---
 
@@ -24,22 +20,21 @@
 `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `Scikit-learn` · `TensorFlow` · `PyTorch` · `LangChain` · `OpenCV`
 
 **Tools & Platforms:**  
-`Jupyter Notebook` · `VS Code` · `GitHub` · `AWS` · `Power BI` · `Excel` · `Google Earth Engine`
+`Jupyter Notebook` · `VS Code` · `GitHub` · `AWS` · `Power BI` · `Excel`
 
 **Databases:**  
-`PostgreSQL` · `MySQL` · `SQLite`
+`PostgreSQL`
 
 ---
 
 ### 🛰️ About My Background
-With a **Master’s in Geospatial Data Science** from **DA-IICT & IIRS–ISRO**, I combine **AI, ML, and data analytics** to build models for decision-making and automation. My expertise bridges **Remote Sensing, GIS, and Machine Learning**, enabling innovative data-driven solutions.
+With a **Master’s in Data Analytics** from **Dhirubhai Ambani University**, I combine **AI, ML, and data analytics** to build models for decision-making and automation.
 
 ---
 
 ### 📫 How to reach me
 - 📧 **Email:** [deepp6603@gmail.com](mailto:deepp6603@gmail.com)  
 - 🔗 **LinkedIn:** [https://www.linkedin.com/in/deep-rabadiya-998816215/](https://www.linkedin.com/in/deep-rabadiya-998816215/)  
-- 🌐 **Portfolio:** [https://deeprabadiya.github.io/](https://deeprabadiya.github.io/)
 
 ---
 

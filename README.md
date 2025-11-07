@@ -33,7 +33,7 @@ With a **Master’s in Data Analytics** from **Dhirubhai Ambani University**, I 
 ---
 
 ### 📫 How to reach me
-- 📧 **Email:** [deepp6603@gmail.com](mailto:deepp6603@gmail.com)  
+- 📧 **Email:** [deeprabadiya8@gmail.com](mailto:deeprabadiya8@gmail.com)  
 - 🔗 **LinkedIn:** [https://www.linkedin.com/in/deep-rabadiya-998816215/](https://www.linkedin.com/in/deep-rabadiya-998816215/)  
 
 ---
@@ -41,7 +41,7 @@ With a **Master’s in Data Analytics** from **Dhirubhai Ambani University**, I 
 ### 🤝 Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/deep-rabadiya-998816215/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" /></a>
-<a href="mailto:deepp6603@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Email" height="40" width="40" /></a>
+<a href="mailto:deeprabadiya8@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Email" height="40" width="40" /></a>
 </p>
 
 ---

@@ -7,7 +7,7 @@
 
 ---
 
-- I am a passionate Geospatial Data Scientist with strong expertise in RS, GIS, Python, Machine Learning, Deep Learning, and Data Analytics. I specialize in transforming complex data into actionable insights through advanced modeling, automation, and visualization. With hands-on experience in SQL, Excel, LangChain, and AWS, I build scalable data-driven solutions and intelligent systems. I’m particularly interested in applying AI and data science techniques to solve real-world challenges across diverse domains. Eager to collaborate on innovative projects that bridge data, technology, and decision-making for meaningful impact.
+- I am a passionate Geospatial Data Scientist with strong expertise in RS, GIS, Python, Machine Learning, Deep Learning, and Data Analytics. I specialize in transforming complex data into actionable insights through advanced modeling, automation, and visualization. With hands-on experience in Geospatial technologies, Python, ML, DL, SQL, Excel, LangChain, and AWS, I build scalable data-driven solutions and intelligent systems. I’m particularly interested in applying AI and data science techniques to solve real-world challenges across Geospatial domain. Eager to collaborate on innovative projects that bridge data, technology, and decision-making for meaningful impact.
 
 ---
 
@@ -28,7 +28,7 @@
 ---
 
 ### 🛰️ About My Background
-With a **Master’s in Geospatial Data Analytics** from **Dhirubhai Ambani University**, I combine **AI, ML, and data analytics** to build models for decision-making and automation.
+With a **Master’s in Geospatial Data Analytics** from **Dhirubhai Ambani University and IIRS-ISRO**, I combine **RS, GIS, AI, ML, and data analytics** to build models for decision-making and automation.
 
 ---
 
